@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0dw/GHNk8k7tVC2qcT81Hf3SJuZqP8+f8CqZvld/8KZiScNtQaPp80tv2K//MN4ecGMbnDbqYG2ho1cXRh/vGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\77071\\source\\repos\\ShopApp\\ShopApp.Web\\ShopApp.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\77071\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
+    "C:\\Users\\77071\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.7\\microsoft.extensions.logging.abstractions.3.1.7.nupkg.sha512"
+  ],
+  "logs": []
+}

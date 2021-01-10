@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\asylk\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\asylk\\.nuget\\packages"
+    ]
+  }
+}

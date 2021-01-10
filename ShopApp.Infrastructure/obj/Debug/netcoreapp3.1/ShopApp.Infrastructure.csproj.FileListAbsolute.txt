@@ -1,0 +1,9 @@
+D:\Develop\ShopApp\ShopApp.Infrastructure\bin\Debug\netcoreapp3.1\ShopApp.Infrastructure.deps.json
+D:\Develop\ShopApp\ShopApp.Infrastructure\bin\Debug\netcoreapp3.1\ShopApp.Infrastructure.dll
+D:\Develop\ShopApp\ShopApp.Infrastructure\bin\Debug\netcoreapp3.1\ShopApp.Infrastructure.pdb
+D:\Develop\ShopApp\ShopApp.Infrastructure\obj\Debug\netcoreapp3.1\ShopApp.Infrastructure.csprojAssemblyReference.cache
+D:\Develop\ShopApp\ShopApp.Infrastructure\obj\Debug\netcoreapp3.1\ShopApp.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Develop\ShopApp\ShopApp.Infrastructure\obj\Debug\netcoreapp3.1\ShopApp.Infrastructure.AssemblyInfoInputs.cache
+D:\Develop\ShopApp\ShopApp.Infrastructure\obj\Debug\netcoreapp3.1\ShopApp.Infrastructure.AssemblyInfo.cs
+D:\Develop\ShopApp\ShopApp.Infrastructure\obj\Debug\netcoreapp3.1\ShopApp.Infrastructure.dll
+D:\Develop\ShopApp\ShopApp.Infrastructure\obj\Debug\netcoreapp3.1\ShopApp.Infrastructure.pdb
